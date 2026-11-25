@@ -1,0 +1,20 @@
+# .NET
+bin/
+obj/
+*.user
+.vs/
+*.suo
+TestResults/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Build
+[Dd]ebug/
+[Rr]elease/
+
+# OS
+.DS_Store
+Thumbs.db
