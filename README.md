@@ -25,8 +25,7 @@ Este repositório contém a especificação de arquitetura corporativa e a imple
 | 08 | [Observabilidade e Custos](docs/08-observabilidade-custos.md) | Monitoramento (SLI/SLO) + FinOps com estimativas de infraestrutura |
 | 09 | [Arquitetura de Transição](docs/09-arquitetura-de-transicao.md) | Estratégia de migração de legado (Strangler Fig) com paridade de dados |
 | — | [ADRs (Architecture Decision Records)](docs/adr/) | 8 decisões justificadas com contexto e trade-offs explícitos |
-| — | [Diagramas C4 (Visualizador Interativo)](c4/arquitetura-c4.html) | Modelo C4 em 4 níveis + transição + runtime sob falha |
-| — | [Diagramas C4 (PDF para Apresentação)](c4/arquitetura-c4.pdf) | Versão A4 paisagem formatada para leitura executiva |
+| — | [Diagramas C4 (PDF para Apresentação)](c4/arquitetura-c4.pdf) | Modelo C4 em 4 níveis + transição + runtime sob falha (A4 paisagem) |
 
 ---
 
@@ -208,8 +207,7 @@ Total: **14 testes (13 unitários + 1 E2E) passando com 100% de sucesso**.
 
 ```
 ├── c4/
-│   ├── arquitetura-c4.html        # Visualizador interativo dos diagramas C4
-│   └── arquitetura-c4.pdf         # Diagramas formatados em A4 paisagem
+│   └── arquitetura-c4.pdf         # Diagramas formatados em A4 paisagem (4 níveis C4 + transição)
 ├── docs/
 │   ├── 01-visao-geral.md          # Visão geral, premissas e método TOGAF
 │   ├── 02-dominios-e-capacidades.md # Domínios, mapa de contexto e capacidades

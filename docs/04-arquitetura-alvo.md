@@ -1,6 +1,6 @@
 # 04 — Arquitetura Alvo (desenho completo)
 
-> Representação visual em 4 níveis C4 + runtime de falha: [c4/arquitetura-c4.html](../c4/arquitetura-c4.html)
+> Representação visual em 4 níveis C4 + runtime de falha: [c4/arquitetura-c4.pdf](../c4/arquitetura-c4.pdf)
 
 ## C4 — Nível 1: Contexto
 
